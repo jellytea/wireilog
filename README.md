@@ -1,2 +1,2 @@
 # wireilog
-Wireilog helps to build circuit board schematic.
+Wireilog helps to build circuit schematic.
